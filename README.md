@@ -8,4 +8,4 @@ Seat availability
 Technology used
 HTML
 CSS
-Java Script
+JS
